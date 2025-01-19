@@ -1,5 +1,7 @@
 # HTML & CSS Project - Omnifood Project UDEMY Course (Jonas Schmedtmann) 
 
+Website link: https://omnifoodproject-jamesbickerton.netlify.app/
+
 Welcome to my HTML and CSS project! This was completed as part of a 37.5-hour course, where I developed a fully responsive website using modern web development techniques. This project represents my progress in learning web development fundamentals (with a slight introduction to Javascript). 
 
 ## Features of the Project
